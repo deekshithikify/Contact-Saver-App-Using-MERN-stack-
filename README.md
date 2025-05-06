@@ -2,6 +2,8 @@
 
 A simple MERN stack application to create, read, update, and delete contact information. Built with MongoDB, Express, React, and Node.js.
 
+
+  
 ✨ Features
 
 Add new contacts with name, email, and phone number
@@ -25,6 +27,8 @@ Backend: Node.js, Express.js
 Database: MongoDB (via Mongoose)
 
 
+
+
 🔧 Setup Instructions
 
 npm install
@@ -32,6 +36,8 @@ npm install
 npm start
 
 The frontend runs on http://localhost:3000 and connects to the backend at http://localhost:5000.
+
+
 
 
 📁 Project Structure
@@ -55,6 +61,8 @@ contact-saver/
 │   ├── index.js
 │   ├── axios.js
 │   └── index.html
+
+
 
 📷 Screenshot
 
